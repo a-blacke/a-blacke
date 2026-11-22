@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi there 👋 I'm a Final Year Computer Science Student (Class of 2027).
 
-<!--
-**a-blacke/a-blacke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about building user-facing mobile applications, concurrent & distributed systems, and data-driven solutions.
 
-Here are some ideas to get you started:
+- 🔭 **Currently working on:** Polishing a mobile e-commerce client and a distributed multiplayer card game.
+- 🌱 **Focus areas:** Software Engineering, Distributed Systems, Mobile Development & Data Analysis
+- 🤝 **Open to:** Software Engineering Internships & Graduate Roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+
+**Languages**
+<p align="left">
+  <img src="https://shields.io" alt="Java" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="C" />
+  <img src="https://shields.io" alt="C++" />
+  <img src="https://shields.io" alt="JavaScript" />
+</p>
+
+**Mobile & Data Science**
+<p align="left">
+  <img src="https://shields.io" alt="React Native" />
+  <img src="https://shields.io" alt="Redux" />
+  <img src="https://shields.io" alt="Jupyter Notebook" />
+  <img src="https://shields.io" alt="Pandas" />
+  <img src="https://shields.io" alt="Matplotlib" />
+  <img src="https://shields.io" alt="Git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://vercel.app" alt="a-blacke's GitHub Stats" height="165" />
+  <img src="https://vercel.app" alt="a-blacke's Top Languages" height="165" />
+</p>
