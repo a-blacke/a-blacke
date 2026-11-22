@@ -1,39 +1,6 @@
-## Hi there 👋 I'm a Final Year Computer Science Student (Class of 2027)
+# 💫 About Me:
+Hi there 👋 I'm a Final Year Computer Science Student (Class of 2027)<br><br>I'm passionate about building user-facing mobile applications, concurrent & distributed systems, and data-driven solutions.<br><br>🔭 **Currently working on:** Polishing a mobile e-commerce client and a distributed multiplayer card game.  <br>🌱 **Focus areas:** Software Engineering, Distributed Systems, Mobile Development & Data Analysis  <br>🤝 **Open to:** Software Engineering Internships & Graduate Roles  
 
-I'm passionate about building user-facing mobile applications, concurrent & distributed systems, and data-driven solutions.
 
-🔭 **Currently working on:** Polishing a mobile e-commerce client and a distributed multiplayer card game.  
-🌱 **Focus areas:** Software Engineering, Distributed Systems, Mobile Development & Data Analysis  
-🤝 **Open to:** Software Engineering Internships & Graduate Roles  
-
----
-
-### 🛠️ Languages & Tools
-
-**Languages**
-<p align="left">
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="JavaScript" />
-</p>
-
-**Mobile & Data Science**
-<p align="left">
-  <img src="https://shields.io" alt="React Native" />
-  <img src="https://shields.io" alt="Redux" />
-  <img src="https://shields.io" alt="Jupyter Notebook" />
-  <img src="https://shields.io" alt="Pandas" />
-  <img src="https://shields.io" alt="Matplotlib" />
-  <img src="https://shields.io" alt="Git" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://vercel.app" alt="a-blacke's GitHub Stats" height="165" />
-  <img src="https://vercel.app" alt="a-blacke's Top Languages" height="165" />
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
