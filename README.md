@@ -1,10 +1,10 @@
-## Hi there 👋 I'm a Final Year Computer Science Student (Class of 2027).
+## Hi there 👋 I'm a Final Year Computer Science Student (Class of 2027)
 
 I'm passionate about building user-facing mobile applications, concurrent & distributed systems, and data-driven solutions.
 
-- 🔭 **Currently working on:** Polishing a mobile e-commerce client and a distributed multiplayer card game.
-- 🌱 **Focus areas:** Software Engineering, Distributed Systems, Mobile Development & Data Analysis
-- 🤝 **Open to:** Software Engineering Internships & Graduate Roles
+🔭 **Currently working on:** Polishing a mobile e-commerce client and a distributed multiplayer card game.  
+🌱 **Focus areas:** Software Engineering, Distributed Systems, Mobile Development & Data Analysis  
+🤝 **Open to:** Software Engineering Internships & Graduate Roles  
 
 ---
 
