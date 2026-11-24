@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! 👋 I'm a Final Year Computer Science Student (Class of 2027)<br><br>I'm passionate about building user-facing mobile applications, concurrent & distributed systems, and data-driven solutions.<br><br>🔭 **Currently working on:** Polishing a mobile e-commerce client and a distributed multiplayer card game.  <br>🌱 **Focus areas:** Software Engineering, Distributed Systems, Mobile Development & Data Analysis  <br>🤝 **Open to:** Software Engineering Internships & Graduate Roles  
+Hello! 👋 I'm a Final Year Computer Science Student (Class of 2027) based in Australia.<br><br>I'm passionate about building user-facing mobile applications, concurrent & distributed systems, and data-driven solutions.<br><br>🔭 **Currently working on:** Polishing a mobile e-commerce client and a distributed multiplayer card game.  <br>🌱 **Focus areas:** Software Engineering, Distributed Systems, Mobile Development & Data Analysis  <br>🤝 **Open to:** Software Engineering Internships & Graduate Roles  
 
 
 # 💻 Tech Stack:
